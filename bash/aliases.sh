@@ -10,3 +10,4 @@ alias be='bundle exec'
 
 #git aliases
 alias s='git status'
+alias bi='bundle --without production mysql'
