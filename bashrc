@@ -4,3 +4,4 @@
 . $HOME/conf/bash/config.sh
 
 . $HOME/conf/bash/bash_prompt.sh
+. $HOME/conf/bash/betvictor.sh
