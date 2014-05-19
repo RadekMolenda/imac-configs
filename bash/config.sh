@@ -7,3 +7,4 @@ export CPP=/usr/local/Cellar/apple-gcc42/4.2.1-5666.3/bin/cpp-4.2
 . /usr/local/Cellar/git/1.9.2/etc/bash_completion.d/git-completion.bash
 . /usr/local/Cellar/git/1.9.2/etc/bash_completion.d/git-prompt.sh
 
+export PATH=/Users/radoslav/.rbenv/shims:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/radoslav/bin:/Users/radoslav/bin
